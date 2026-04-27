@@ -1,0 +1,7 @@
+# Build outputs
+bin/
+out/
+
+# Documents
+*.pdf
+extract_pdf.ps1
