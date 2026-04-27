@@ -2,6 +2,12 @@
 
 A 3D character controller built with OpenGL featuring skeletal animations, physics-based movement, and an HDR environment skybox.
 
+## Demo
+
+<video controls width="800" src="./media/character_demo_window.mp4"></video>
+
+If your Markdown viewer does not render the video inline, open [media/character_demo_window.mp4](media/character_demo_window.mp4) directly.
+
 ## Features
 
 - **Skeletal Animation System**: Smooth bone-based character animation with multiple animation states
@@ -72,6 +78,7 @@ cmake --build out --target skeletal_animation
 ```
 character-ani/
 ├── bin/                          # Built executable and shaders
+├── media/                        # Recorded demo video
 ├── src/
 │   ├── 8.guest/2020/skeletal_animation/
 │   │   ├── skeletal_animation.cpp    # Main application
