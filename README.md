@@ -4,9 +4,7 @@ A 3D character controller built with OpenGL featuring skeletal animations, physi
 
 ## Demo
 
-<video controls width="800" src="./media/character_demo_window.mp4"></video>
-
-If your Markdown viewer does not render the video inline, open [media/character_demo_window.mp4](media/character_demo_window.mp4) directly.
+![Demo](./media/character_demo_window.gif)
 
 ## Features
 
